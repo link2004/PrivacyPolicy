@@ -1,1 +1,1 @@
-# PrivacyPolicy
+# アプリ用 PrivacyPolicyサイト
